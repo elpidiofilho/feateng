@@ -1,0 +1,11 @@
+Package: feateng
+Type: Package
+Title: Create new variables from satellites images
+Version: 0.1.0
+Author: person("Elpidio", "Fernandes Filho", email = "elpidio@ufv.br", role = c("aut","cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
